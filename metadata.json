@@ -1,0 +1,8 @@
+{
+  "name": "المطعم السوري",
+  "description": "الموقع الرسمي للمطعم السوري - نكهات سورية أصيلة بطابع مميز. منيو كامل، الخط الساخن 17196 وفروعنا في بهتيم وعرابي.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
